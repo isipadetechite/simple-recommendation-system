@@ -30,4 +30,5 @@ def recommend(movie_name):
 
 
 # Test
-recommend("Toy Story (1995)")
+movie = input("Enter a movie name: ")
+recommend(movie)
