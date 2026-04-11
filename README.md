@@ -22,3 +22,6 @@ Output: List of similar movies based on user ratings
 
 ## Status
 This project is part of my learning journey in machine learning and is continuously being improved.
+
+👤 Author
+Augustine Wereuche Praise
